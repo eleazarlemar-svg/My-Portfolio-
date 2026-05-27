@@ -5,6 +5,8 @@
 - Age: 19
 - Course/Section: IT1C 
 - Email: eleazarlemar@gmail.com
+- Facebook- Lemar Eleazar
+- Instagram- lemramyx
 
 ## Skills & Technologies
 - Python
@@ -14,8 +16,8 @@
 - Capcut 
 
 ## Projects and Contributions
-### Lost and Found System
-- Created a simple inventory system project.
+### Hotel Reservation Management System
+- Created a simple booking system project.
 
  
 
