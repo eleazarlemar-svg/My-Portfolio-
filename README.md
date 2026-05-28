@@ -3,10 +3,8 @@
 ## Personal Information
 - Name: Lemar Eleazar 
 - Age: 19
+- Birthday: November 7,2007
 - Course/Section: IT1C 
-- Email: eleazarlemar@gmail.com
-- Facebook- Lemar Eleazar
-- Instagram- lemramyx
 
 ## Skills & Technologies
 - Python
