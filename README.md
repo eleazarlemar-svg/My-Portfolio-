@@ -17,7 +17,7 @@
 ## Projects and Contributions
 ### Hotel Reservation Management System
 - Created a simple booking system project.
-- Help to create design in canva 
+- Helped to edit/create design in canva 
  
 
 
