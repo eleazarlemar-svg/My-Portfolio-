@@ -2,7 +2,7 @@
 
 ## Personal Information
 - Name: Lemar Eleazar 
-- Age: 19
+- Age: 18
 - Birthday: November 7,2007
 - Course/Section: IT1C 
 - Sex: Male
