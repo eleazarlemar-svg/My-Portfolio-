@@ -5,7 +5,6 @@
 - Age: 19
 - Birthday: November 7,2007
 - Course/Section: IT1C 
-<details>
 
 
 ## Skills & Technologies
