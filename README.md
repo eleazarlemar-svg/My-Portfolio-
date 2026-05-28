@@ -11,7 +11,7 @@
 - Python
 - Canva
 - GitHub
-- C
+- C++
 - Capcut 
 
 ## Projects and Contributions
@@ -25,7 +25,7 @@
 (Add images here)
 
 ## Certificates or Achievements
-- With Honors
+- With Honors G10 to G12
 
 
 ## Contact Links  
@@ -33,4 +33,4 @@
 
 - Instagram: (https://www.instagram.com/lemramyx?igsh=MXMyNHRlZTBvN3AxdQ==)
 
-- Github: 
+- Github: (https://github.com/eleazarlemar-svg)
