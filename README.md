@@ -5,7 +5,8 @@
 - Age: 19
 - Birthday: November 7,2007
 - Course/Section: IT1C 
-
+- Sex: Male
+- Civil Status: Single
 
 ## Skills & Technologies
 - Python
