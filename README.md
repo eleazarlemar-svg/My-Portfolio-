@@ -25,3 +25,9 @@
 
 ## Certificates or Achievements
 - With Honors
+
+
+## Social Media Accounts 
+- Facebook: (https://www.facebook.com/share/1E7vYTKwmh/)
+
+- Instagram: (https://www.instagram.com/lemramyx?igsh=MXMyNHRlZTBvN3AxdQ==)
