@@ -5,6 +5,8 @@
 - Age: 19
 - Birthday: November 7,2007
 - Course/Section: IT1C 
+<details>
+
 
 ## Skills & Technologies
 - Python
@@ -16,7 +18,7 @@
 ## Projects and Contributions
 ### Hotel Reservation Management System
 - Created a simple booking system project.
-
+- Help to create design in canva 
  
 
 
