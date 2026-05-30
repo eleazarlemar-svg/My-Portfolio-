@@ -19,7 +19,7 @@
 ### Hotel Reservation Management System
 - Created a simple booking system project.
 - Helped to edit/create design in canva 
- 
+- Contributed to the project visual design and user interface using canva.
 
 
 ## Screenshots/Pictures
@@ -27,7 +27,7 @@
 
 ## Certificates or Achievements
 - With Honors G10 to G12
-
+  
 
 ## Contact Links  
 - Facebook: (https://www.facebook.com/share/1E7vYTKwmh/)
