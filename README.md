@@ -9,11 +9,21 @@
 - Civil Status: Single
 
 ## Skills & Technologies
+
+### Programming Languages
 - Python
-- Canva
-- GitHub
 - C++
-- Capcut 
+
+### Tools & Platforms
+- GitHub
+- VS Code
+- Canva
+- CapCut
+- MySQL
+- Microsoft Office (Word, Excel, PowerPoint)
+- Google Workspace (Docs, Drive, Classroom)
+- Windows
+
 
 ## Projects and Contributions
 ### Hotel Reservation Management System
