@@ -27,6 +27,7 @@
 
 ## Projects and Contributions
 ### Hotel Reservation Management System
+Canva system (https://canva.link/e65vzapxzznivgf)
 - Created a simple booking system project.
 - Helped to edit/create design in canva 
 - Contributed to the project visual design and user interface using canva.
