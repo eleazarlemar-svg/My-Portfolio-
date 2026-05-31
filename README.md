@@ -33,7 +33,8 @@
 
 
 ## Screenshots/Pictures
-(Add images here)
+(<img width="1536" height="2048" alt="395ee385-9cc6-4388-a32e-2fecacf8e4a1" src="https://github.com/user-attachments/assets/e089a3a9-305f-45b5-9b4c-d097f1af0f63" />
+)
 
 ## Certificates or Achievements
 - With Honors G10 to G12
